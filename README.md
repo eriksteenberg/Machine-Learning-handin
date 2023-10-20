@@ -1,2 +1,2 @@
 # Machine-Learning-handin
-THe machine learning handins for 2022
+The machine learning handins for 2022
